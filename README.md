@@ -1,12 +1,16 @@
 # Laboratorium z Testowania aplikacji Ruby
 
 Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
+
 ***************************
+
 [CodeQuizzes](CodeQuizzes):  
 > [lib](CodeQuizzes/lib)
 
 > [spec](CodeQuizzes/spec)
+
 ***************************
+
 [MiniTest](MiniTest):  
 > [lib](MiniTest/lib)
 >>[gigasecond](MiniTest/lib/gigasecond.rb)  
@@ -18,7 +22,7 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >>[prime_factors](MiniTest/lib/prime_factors.rb)  
 >>[raindrops](MiniTest/lib/raindrops.rb)  
 >>[rna_transcription](MiniTest/lib/rna_transcription.rb)  
->>[sum_of_multiples](MiniTest/lib/sum_of_multiples.rb)  
+>>[sum_of_multiples](MiniTest/lib/sum_of_multiples.rb)
 
 > [spec](MiniTest/spec)
 
