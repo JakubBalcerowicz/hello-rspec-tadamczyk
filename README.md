@@ -3,7 +3,8 @@
 Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 ***************************
 [CodeQuizzes](CodeQuizzes):  
-> [lib](CodeQuizzes/lib)  
+> [lib](CodeQuizzes/lib)
+
 > [spec](CodeQuizzes/spec)
 ***************************
 [MiniTest](MiniTest):  
