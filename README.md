@@ -34,6 +34,7 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 
 > [spec](MiniTest/spec)
 >> [hello_world](MiniTest/spec/hello_world_spec.rb)  
+>> [gigasecond](MiniTest/spec/gigasecond_spec.rb)  
 
 > [test](MiniTest/test)
 >> [gigasecond](MiniTest/test/gigasecond/gigasecond_test.rb)  
