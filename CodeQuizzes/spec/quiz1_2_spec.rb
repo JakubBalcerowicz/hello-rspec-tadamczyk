@@ -1,3 +1,4 @@
+require 'rspec/autorun'
 require '../lib/quiz1_2'
 
 RSpec.describe '../lib/quiz1_2.rb' do

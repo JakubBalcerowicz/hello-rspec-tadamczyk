@@ -1,3 +1,4 @@
+require 'rspec/autorun'
 require '../lib/hello_world'
 
 RSpec.describe '../lib/hello_world.rb' do
