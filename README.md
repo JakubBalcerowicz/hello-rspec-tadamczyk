@@ -19,7 +19,8 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >> [quiz1_12](CodeQuizzes/lib/quiz1_12.rb)  
 >> [quiz1_15](CodeQuizzes/lib/quiz1_15.rb)  
 >> [quiz2_1](CodeQuizzes/lib/quiz2_1.rb)  
->> [quiz2_2](CodeQuizzes/lib/quiz2_2.rb)
+>> [quiz2_2](CodeQuizzes/lib/quiz2_2.rb)  
+>> [quiz2_3](CodeQuizzes/lib/quiz2_3.rb)
 
 > [spec](CodeQuizzes/spec)
 >> [quiz1_1](CodeQuizzes/spec/quiz1_1_spec.rb)  
@@ -33,7 +34,8 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >> [quiz1_12](CodeQuizzes/spec/quiz1_12_spec.rb)  
 >> [quiz1_15](CodeQuizzes/spec/quiz1_15_spec.rb)  
 >> [quiz2_1](CodeQuizzes/spec/quiz2_1_spec.rb)  
->> [quiz2_2](CodeQuizzes/spec/quiz2_2_spec.rb)
+>> [quiz2_2](CodeQuizzes/spec/quiz2_2_spec.rb)  
+>> [quiz2_3](CodeQuizzes/spec/quiz2_3_spec.rb)
 
 ***************************
 
