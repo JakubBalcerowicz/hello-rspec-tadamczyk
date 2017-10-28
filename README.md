@@ -11,13 +11,15 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >> [quiz1_1](CodeQuizzes/lib/quiz1_1.rb)  
 >> [quiz1_2](CodeQuizzes/lib/quiz1_2.rb)  
 >> [quiz1_3](CodeQuizzes/lib/quiz1_3.rb)  
->> [quiz1_5](CodeQuizzes/lib/quiz1_5.rb)
+>> [quiz1_5](CodeQuizzes/lib/quiz1_5.rb)  
+>> [quiz1_6](CodeQuizzes/lib/quiz1_6.rb)
 
 > [spec](CodeQuizzes/spec)
 >> [quiz1_1](CodeQuizzes/spec/quiz1_1_spec.rb)  
 >> [quiz1_2](CodeQuizzes/spec/quiz1_2_spec.rb)  
 >> [quiz1_3](CodeQuizzes/spec/quiz1_3_spec.rb)  
->> [quiz1_5](CodeQuizzes/spec/quiz1_5_spec.rb)
+>> [quiz1_5](CodeQuizzes/spec/quiz1_5_spec.rb)  
+>> [quiz1_6](CodeQuizzes/spec/quiz1_6_spec.rb)
 
 ***************************
 

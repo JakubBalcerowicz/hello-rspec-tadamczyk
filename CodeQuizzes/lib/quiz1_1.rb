@@ -1,3 +1,3 @@
 def word_count(string)
-  string.split(" ").length
+  string.split(' ').length
 end
