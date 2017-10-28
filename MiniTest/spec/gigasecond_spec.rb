@@ -14,5 +14,11 @@ RSpec.describe '../lib/gigasecond.rb' do
         finalDate = Time.utc(2009, 2, 19, 1, 46, 40)
         expect(Gigasecond.from(date)).to eq finalDate
     end
+
+    it "returns 27/3/1991 01:46:40 date" do
+        date = Time.utc(1959, 7, 19, 0, 0, 0)
+        finalDate = Time.utc(1991, 3, 27, 1, 46, 40)
+        expect(Gigasecond.from(date)).to eq finalDate
+    end
   end
 end
