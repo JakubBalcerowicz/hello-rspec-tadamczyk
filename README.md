@@ -2,7 +2,7 @@
 
 Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 
-***************************
+********************************
 
 [CodeQuizzes](CodeQuizzes) - link do strony [_kliknij tutaj_](http://www.codequizzes.com) oraz do odpowiednich zadań [_kliknij tutaj_](http://www.codequizzes.com/ruby/test-driven-development/strings-integers-tdd) i [_kliknij tutaj_](http://www.codequizzes.com/ruby/test-driven-development/rspec-arrays-expectations):
 > [Gemfile](CodeQuizzes/Gemfile)  
@@ -43,7 +43,7 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >> [quiz2_9](CodeQuizzes/spec/quiz2_9_spec.rb)  
 >> [quiz2_10](CodeQuizzes/spec/quiz2_10_spec.rb)
 
-***************************
+********************************
 
 [MiniTest](MiniTest) - link do strony [_kliknij tutaj_](http://exercism.io/) oraz do odpowiednich zadań [_kliknij tutaj_](http://exercism.io/languages/ruby/exercises):
 > [Gemfile](MiniTest/Gemfile)  
