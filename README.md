@@ -6,8 +6,10 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 
 [CodeQuizzes](CodeQuizzes) - link do strony [_kliknij tutaj_](http://www.codequizzes.com) oraz do odpowiednich zadań [_kliknij tutaj_](http://www.codequizzes.com/ruby/test-driven-development/strings-integers-tdd) i [_kliknij tutaj_](http://www.codequizzes.com/ruby/test-driven-development/rspec-arrays-expectations):
 > [lib](CodeQuizzes/lib)
+>>[quiz1_1](CodeQuizzes/lib/quiz1_1.rb)
 
 > [spec](CodeQuizzes/spec)
+>>[quiz1_1](CodeQuizzes/spec/quiz1_1_spec.rb)
 
 ***************************
 
