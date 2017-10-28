@@ -32,5 +32,9 @@ RSpec.describe '../lib/gigasecond.rb' do
         finalDate = Time.utc(2046, 10, 3, 1, 46, 39)
         expect(Gigasecond.from(date)).to eq finalDate
     end
+
+    it "returns 6 BookKeeping version" do
+        expect(BookKeeping::VERSION).to eq 6
+    end
   end
 end
