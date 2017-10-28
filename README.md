@@ -37,6 +37,7 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >> [hello_world](MiniTest/spec/hello_world_spec.rb)  
 >> [matrix](MiniTest/spec/matrix_spec.rb)  
 >> [prime_factors](MiniTest/spec/prime_factors_spec.rb)  
+>> [rna_transcriptions](MiniTest/spec/rna_transcriptions_spec.rb)
 
 > [test](MiniTest/test)
 >> [gigasecond](MiniTest/test/gigasecond/gigasecond_test.rb)  
