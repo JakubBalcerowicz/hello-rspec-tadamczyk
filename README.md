@@ -33,6 +33,7 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >> [sum_of_multiples](MiniTest/lib/sum_of_multiples.rb)
 
 > [spec](MiniTest/spec)
+>> [hello_world](MiniTest/spec/hello_world_spec.rb)  
 
 > [test](MiniTest/test)
 >> [gigasecond](MiniTest/test/gigasecond/gigasecond_test.rb)  
