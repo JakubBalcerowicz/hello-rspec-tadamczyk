@@ -21,8 +21,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  minitest
-  rspec
+  minitest (= 5.10.3)
+  rspec (= 3.7.0)
 
 BUNDLED WITH
    1.15.4
