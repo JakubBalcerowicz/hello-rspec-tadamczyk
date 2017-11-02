@@ -13,7 +13,7 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >> [merge_sort](MergeSort/lib/merge_sort.rb)
 
 > [spec](MergeSort/spec)
->> [merge_sort](MergeSort/lib/merge_sort_spec.rb)
+>> [merge_sort](MergeSort/spec/merge_sort_spec.rb)
 
 ********************************
 
