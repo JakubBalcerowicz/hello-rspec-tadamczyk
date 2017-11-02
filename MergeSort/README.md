@@ -17,6 +17,7 @@ Struktura katalogu:
 > [Gemfile.lock](Gemfile.lock)
 
 > [lib](lib)
+>> [merge](lib/merge.rb)  
 >> [merge_sort](lib/merge_sort.rb)
 
 > [spec](spec)

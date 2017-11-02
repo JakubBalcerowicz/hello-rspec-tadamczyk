@@ -10,6 +10,7 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 > [Gemfile.lock](MergeSort/Gemfile.lock)
 
 > [lib](MergeSort/lib)
+>> [merge](MergeSort/lib/merge.rb)  
 >> [merge_sort](MergeSort/lib/merge_sort.rb)
 
 > [spec](MergeSort/spec)
