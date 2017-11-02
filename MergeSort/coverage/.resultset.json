@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/hello-rspec-tadamczyk/MergeSort/lib/merge_sort.rb": [
+      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/MyRSpec/MergeSort/lib/merge_sort.rb": [
         1,
         null,
         1,
@@ -14,7 +14,7 @@
         null,
         null
       ],
-      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/hello-rspec-tadamczyk/MergeSort/lib/merge.rb": [
+      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/MyRSpec/MergeSort/lib/merge.rb": [
         1,
         80,
         80,
@@ -23,7 +23,7 @@
         80,
         null
       ],
-      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/hello-rspec-tadamczyk/MergeSort/spec/int_array_merge_sort_spec.rb": [
+      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/MyRSpec/MergeSort/spec/int_array_merge_sort_spec.rb": [
         1,
         1,
         null,
@@ -67,7 +67,7 @@
         null,
         null
       ],
-      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/hello-rspec-tadamczyk/MergeSort/spec/merge_sort_spec.rb": [
+      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/MyRSpec/MergeSort/spec/merge_sort_spec.rb": [
         1,
         1,
         null,
@@ -91,7 +91,7 @@
         null,
         null
       ],
-      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/hello-rspec-tadamczyk/MergeSort/spec/merge_spec.rb": [
+      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/MyRSpec/MergeSort/spec/merge_spec.rb": [
         1,
         1,
         null,
@@ -133,7 +133,7 @@
         null,
         null
       ],
-      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/hello-rspec-tadamczyk/MergeSort/spec/string_array_merge_sort_spec.rb": [
+      "/mnt/4321388F3662C680/UG/5 semestr/Testowanie aplikacji Ruby/Laboratoria/MyRSpec/MergeSort/spec/string_array_merge_sort_spec.rb": [
         1,
         1,
         null,
@@ -182,6 +182,6 @@
         null
       ]
     },
-    "timestamp": 1509634489
+    "timestamp": 1509635210
   }
 }

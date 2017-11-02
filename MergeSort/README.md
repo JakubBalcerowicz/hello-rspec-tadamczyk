@@ -31,4 +31,4 @@ Struktura katalogu:
 Lista użytych gem'ów:
 
 > [*rspec (= 3.7.0)*](https://rubygems.org/gems/rspec/versions/3.7.0)  
-> [*simplecov (~> 0.12.0)*](https://rubygems.org/gems/simplecov/versions/0.12.0)
+> [*simplecov (~> 0.13.0)*](https://rubygems.org/gems/simplecov/versions/0.13.0)
