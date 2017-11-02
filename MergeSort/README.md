@@ -20,7 +20,10 @@ Struktura katalogu:
 >> [merge_sort](lib/merge_sort.rb)
 
 > [spec](spec)
->> [merge_sort](spec/merge_sort_spec.rb)
+>> [main_merge_sort_spec](spec/main_merge_sort_spec.rb)  
+>> [int_merge_sort_spec](spec/int_merge_sort_spec.rb)  
+>> [float_merge_sort_spec](spec/float_merge_sort_spec.rb)  
+>> [string_merge_sort_spec](spec/string_merge_sort_spec.rb)
 
 Lista użytych gem'ów:
 
