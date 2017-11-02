@@ -28,7 +28,7 @@ RSpec.describe '../lib/merge.rb' do
     end
 
     it 'should returns correctly merged array' do
-      left = ['adam', 'Tomek']
+      left = %w[adam Tomek]
       right = ['1', '0.5']
       final = ['0.5', '1', 'Tomek', 'adam']
       expect(merge(left, right)).to match_array(final)

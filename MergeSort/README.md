@@ -9,6 +9,7 @@ Cechy algorytmu sortowania przez scalanie:
 | *O(n log n)* | *O(n log n)* | *O(n log n)* | *NIE* | *TAK*
 
 ****
+****
 
 Struktura katalogu:
 
@@ -29,4 +30,4 @@ Struktura katalogu:
 
 Lista użytych gem'ów:
 
-> *rspec = 3.7.0*
+> [*rspec (= 3.7.0)*](https://rubygems.org/gems/rspec/versions/3.7.0)
