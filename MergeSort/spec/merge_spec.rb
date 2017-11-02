@@ -2,6 +2,10 @@ require_relative '../lib/merge'
 
 RSpec.describe '../lib/merge.rb' do
   describe '#merge' do
+    it 'should returns empty array' do
+      expect(merge_sort([], [])).to match([])
+    end
+
     it 'should returns correctly merged int array' do
       left = [1, 2, 5]
       right = [4, 3]
@@ -20,6 +24,13 @@ RSpec.describe '../lib/merge.rb' do
       left = %w[adam tomek]
       right = %w[czyk Tomasz Adam]
       final = %w[Adam Tomasz adam czyk tomek]
+      expect(merge(left, right)).to match_array(final)
+    end
+
+    it 'should returns correctly merged array' do
+      left = %w[adam Tomek]
+      right = [1, 0.5]
+      final = [0.5, 1, 'Tomek', 'adam']
       expect(merge(left, right)).to match_array(final)
     end
   end
