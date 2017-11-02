@@ -5,10 +5,8 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 ********************************
 
 [MergeSort](MergeSort) - implementacja sortowania przez scalanie stanowiąca projekt na zaliczenie. Po więcej informacji [_kliknij tutaj_](MergeSort/README.md):
-> [README](MergeSort/README.md)
-
-> [Gemfile](MergeSort/Gemfile)
-
+> [README](MergeSort/README.md)  
+> [Gemfile](MergeSort/Gemfile)  
 > [Gemfile.lock](MergeSort/Gemfile.lock)
 
 > [lib](MergeSort/lib)
@@ -20,8 +18,7 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 ********************************
 
 [CodeQuizzes](CodeQuizzes) - link do strony [_kliknij tutaj_](http://www.codequizzes.com) oraz do odpowiednich zadań [_kliknij tutaj_](http://www.codequizzes.com/ruby/test-driven-development/strings-integers-tdd) i [_kliknij tutaj_](http://www.codequizzes.com/ruby/test-driven-development/rspec-arrays-expectations):
-> [Gemfile](CodeQuizzes/Gemfile)
-
+> [Gemfile](CodeQuizzes/Gemfile)  
 > [Gemfile.lock](CodeQuizzes/Gemfile.lock)
 
 > [lib](CodeQuizzes/lib)
@@ -63,8 +60,7 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 ********************************
 
 [MiniTest](MiniTest) - link do strony [_kliknij tutaj_](http://exercism.io/) oraz do odpowiednich zadań [_kliknij tutaj_](http://exercism.io/languages/ruby/exercises):
-> [Gemfile](MiniTest/Gemfile)
-
+> [Gemfile](MiniTest/Gemfile)  
 > [Gemfile.lock](MiniTest/Gemfile.lock)
 
 > [lib](MiniTest/lib)
