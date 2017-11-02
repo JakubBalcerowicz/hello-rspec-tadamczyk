@@ -45,5 +45,9 @@ RSpec.describe '../lib/merge_sort.rb' do
     it 'should returns correctly sorted int array' do
       expect([133, 1, 0, -5].merge_sort).to match_array([-5, 0, 1, 133])
     end
+
+    it 'should returns sorted int array with duplicate elements' do
+      expect([0, 2, 1, 2, 1, 1].merge_sort).to match_array([0, 1, 1, 1, 2, 2])
+    end
   end
 end
