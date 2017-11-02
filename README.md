@@ -82,6 +82,6 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 
 ********************************
 
-<u>Polecenia:</u>  
+__Polecenia:__  
 > _bundle install_ - instalacja paczek z pliku Gemfile;  
 > _bundle exec rspec_  - uruchomienie wszystkich testów z plików '*_spec.rb' z katalogu spec.
