@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_6'
+require_relative '../lib/quiz1_6'
 
 RSpec.describe '../lib/quiz1_6.rb' do
   describe '#strip_whitespace' do

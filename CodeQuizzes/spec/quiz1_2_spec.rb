@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_2'
+require_relative '../lib/quiz1_2'
 
 RSpec.describe '../lib/quiz1_2.rb' do
   describe '#average_word_length' do

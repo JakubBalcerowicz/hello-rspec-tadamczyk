@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz2_2'
+require_relative '../lib/quiz2_2'
 
 RSpec.describe '../lib/quiz2_2.rb' do
   describe '#sort_by_length' do

@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_15'
+require_relative '../lib/quiz1_15'
 
 RSpec.describe '../lib/quiz1_15.rb' do
   describe '#concat' do

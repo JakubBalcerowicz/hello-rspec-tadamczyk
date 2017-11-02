@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz2_3'
+require_relative '../lib/quiz2_3'
 
 RSpec.describe '../lib/quiz2_3.rb' do
   describe '#mean' do

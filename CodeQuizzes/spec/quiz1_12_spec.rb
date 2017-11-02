@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_12'
+require_relative '../lib/quiz1_12'
 
 RSpec.describe '../lib/quiz1_12.rb' do
   describe '#alliteration?' do

@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz2_10'
+require_relative '../lib/quiz2_10'
 
 RSpec.describe '../lib/quiz2_10.rb' do
   describe '#index_of_max' do

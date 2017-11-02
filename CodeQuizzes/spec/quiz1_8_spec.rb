@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_8'
+require_relative '../lib/quiz1_8'
 
 RSpec.describe '../lib/quiz1_8.rb' do
   describe '#delete_last' do

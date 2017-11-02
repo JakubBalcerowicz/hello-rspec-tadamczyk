@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_7'
+require_relative '../lib/quiz1_7'
 
 RSpec.describe '../lib/quiz1_7.rb' do
   describe '#titlecase' do

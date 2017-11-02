@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_11'
+require_relative '../lib/quiz1_11'
 
 RSpec.describe '../lib/quiz1_11.rb' do
   describe '#acronym?' do

@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz2_9'
+require_relative '../lib/quiz2_9'
 
 RSpec.describe '../lib/quiz2_9.rb' do
   describe '#first_duplicate' do

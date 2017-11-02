@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_4'
+require_relative '../lib/quiz1_4'
 
 RSpec.describe '../lib/quiz1_4.rb' do
   describe '#vowels' do

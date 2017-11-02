@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_3'
+require_relative '../lib/quiz1_3'
 
 RSpec.describe '../lib/quiz1_3.rb' do
   describe '#palindrome?' do

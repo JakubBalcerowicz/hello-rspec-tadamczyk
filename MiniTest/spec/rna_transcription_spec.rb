@@ -1,8 +1,7 @@
-require 'rspec/autorun'
-require '../lib/rna_transcription'
+require_relative '../lib/rna_transcription'
 
 RSpec.describe '../lib/rna_transcription.rb' do
-  describe "#of_dna" do
+  describe '#of_dna' do
     it "returns 'G' after rna complement 'C'" do
       expect(Complement.of_dna('C')).to eq 'G'
     end
@@ -33,10 +32,6 @@ RSpec.describe '../lib/rna_transcription.rb' do
 
     it "returns '' after rna complement 'ACGTXXXCTTAA'" do
       expect(Complement.of_dna('ACGTXXXCTTAA')).to eq ''
-    end
-
-    it "returns 4 BookKeeping version" do
-      expect(BookKeeping::VERSION).to eq 4
     end
   end
 end

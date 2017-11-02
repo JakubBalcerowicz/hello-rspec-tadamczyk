@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz2_1'
+require_relative '../lib/quiz2_1'
 
 RSpec.describe '../lib/quiz2_1.rb' do
   describe '#has_string?' do

@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_1'
+require_relative '../lib/quiz1_1'
 
 RSpec.describe '../lib/quiz1_1.rb' do
   describe '#word_count' do

@@ -1,5 +1,4 @@
-require 'rspec/autorun'
-require '../lib/quiz1_5'
+require_relative '../lib/quiz1_5'
 
 RSpec.describe '../lib/quiz1_5.rb' do
   describe '#start_with_c?' do

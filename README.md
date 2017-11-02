@@ -79,3 +79,9 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >> [raindrops](MiniTest/test/raindrops/raindrops_test.rb)  
 >> [rna_transcription](MiniTest/test/rna-transcription/rna_transcription_test.rb)  
 >> [sum_of_multiples](MiniTest/test/sum-of-multiples/sum_of_multiples_test.rb)
+
+********************************
+
+Polecenia:  
+> _bundle install_ - instalacja paczek z pliku Gemfile;  
+> _bundle exec rspec_  - uruchomienie wszystkich testów z plików '*_spec.rb' w katalogu spec.
