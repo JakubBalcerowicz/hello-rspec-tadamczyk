@@ -75,12 +75,21 @@ RSpec.describe '../lib/merge_sort.rb' do
     end
 
     it 'should returns sorted array with special keys' do
-      tmp = ['#', '!@#', 'ZA', ';', '/', '1', '!', '@']
-      expect(tmp.merge_sort).to match_array(['!', '!@#', '#', '/', '1', ';', '@', 'ZA'])
+      before_sort = ['#', '!@#', 'ZA', ';', '/', '1', '!', '@']
+      after_sort = ['!', '!@#', '#', '/', '1', ';', '@', 'ZA']
+      expect(before_sort.merge_sort).to match_array(after_sort)
     end
 
     it 'should returns sorted string array with duplicate elements' do
-      expect(%w[tomek tomek tomek adam czyk adam].merge_sort).to match_array(%w[adam adam czyk tomek tomek tomek])
+      before_sort = %w[tomek tomek tomek adam czyk adam]
+      after_sort = %w[adam adam czyk tomek tomek tomek]
+      expect(before_sort.merge_sort).to match_array(after_sort)
+    end
+
+    it 'should returns sorted array includes float, int and string elements' do
+      before_sort = ['Tomek', '15.34', 'adam', '9']
+      after_sort = ['9', '15.34', 'Tomek', 'adam']
+      expect(before_sort.merge_sort).to match_array(after_sort)
     end
   end
 end
