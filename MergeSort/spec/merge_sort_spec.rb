@@ -65,5 +65,22 @@ RSpec.describe '../lib/merge_sort.rb' do
     it 'should returns sorted float array with duplicate elements' do
       expect([1.1, 1.1, 1, 1.001, 1, 1.002].merge_sort).to match_array([1, 1, 1.001, 1.002, 1.1, 1.1])
     end
+
+    it 'should returns sorted string array' do
+      expect(%w[tomek adam czyk].merge_sort).to match_array(%w[adam czyk tomek])
+    end
+
+    it 'should returns sorted string array with big letters' do
+      expect(%w[Tomek adam czyk].merge_sort).to match_array(%w[Tomek adam czyk])
+    end
+
+    it 'should returns sorted array with special keys' do
+      tmp = ['#', '!@#', 'ZA', ';', '/', '1', '!', '@']
+      expect(tmp.merge_sort).to match_array(['!', '!@#', '#', '/', '1', ';', '@', 'ZA'])
+    end
+
+    it 'should returns sorted string array with duplicate elements' do
+      expect(%w[tomek tomek tomek adam czyk adam].merge_sort).to match_array(%w[adam adam czyk tomek tomek tomek])
+    end
   end
 end
