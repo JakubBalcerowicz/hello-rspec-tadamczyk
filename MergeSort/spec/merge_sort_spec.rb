@@ -111,5 +111,15 @@ RSpec.describe '../lib/merge_sort.rb' do
       array = [-1.002, -1.01, 5.2321, 5.232].merge_sort
       expect(array[-1]).to eq (5.2321)
     end
+
+    it 'should returns the first one element in sorted string array' do
+      array = %w[Tomek Adam adam czyk Czyk].merge_sort
+      expect(array[0]).to eq 'Adam'
+    end
+
+    it 'should returns the last one element in sorted string array' do
+      array = %w[Tomek Adam adam czyk Czyk].merge_sort
+      expect(array[-1]).to eq 'czyk'
+    end
   end
 end
