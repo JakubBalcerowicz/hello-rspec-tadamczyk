@@ -4,6 +4,17 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 
 ********************************
 
+[MergeSort](MergeSort) - implementacja sortowania przez scalanie stanowiąca projekt na zaliczenie. Po więcej informacji [_kliknij tutaj_](MergeSort/README.md):
+> [README](MergeSort/README.md)  
+> [Gemfile](MergeSort/Gemfile)  
+> [Gemfile.lock](MergeSort/Gemfile.lock)  
+> [lib](MergeSort/lib)
+>> [merge_sort](MergeSort/lib/merge_sort.rb)  
+> [spec](MergeSort/spec)
+>> [merge_sort](MergeSort/lib/merge_sort_spec.rb)  
+
+********************************
+
 [CodeQuizzes](CodeQuizzes) - link do strony [_kliknij tutaj_](http://www.codequizzes.com) oraz do odpowiednich zadań [_kliknij tutaj_](http://www.codequizzes.com/ruby/test-driven-development/strings-integers-tdd) i [_kliknij tutaj_](http://www.codequizzes.com/ruby/test-driven-development/rspec-arrays-expectations):
 > [Gemfile](CodeQuizzes/Gemfile)  
 > [Gemfile.lock](CodeQuizzes/Gemfile.lock)  
@@ -23,8 +34,7 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >> [quiz2_2](CodeQuizzes/lib/quiz2_2.rb)  
 >> [quiz2_3](CodeQuizzes/lib/quiz2_3.rb)  
 >> [quiz2_9](CodeQuizzes/lib/quiz2_9.rb)  
->> [quiz2_10](CodeQuizzes/lib/quiz2_10.rb)
-
+>> [quiz2_10](CodeQuizzes/lib/quiz2_10.rb)  
 > [spec](CodeQuizzes/spec)
 >> [quiz1_1](CodeQuizzes/spec/quiz1_1_spec.rb)  
 >> [quiz1_2](CodeQuizzes/spec/quiz1_2_spec.rb)  
@@ -58,16 +68,14 @@ Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 >> [prime_factors](MiniTest/lib/prime_factors.rb)  
 >> [raindrops](MiniTest/lib/raindrops.rb)  
 >> [rna_transcription](MiniTest/lib/rna_transcription.rb)  
->> [sum_of_multiples](MiniTest/lib/sum_of_multiples.rb)
-
+>> [sum_of_multiples](MiniTest/lib/sum_of_multiples.rb)  
 > [spec](MiniTest/spec)
 >> [gigasecond](MiniTest/spec/gigasecond_spec.rb)  
 >> [hello_world](MiniTest/spec/hello_world_spec.rb)  
 >> [matrix](MiniTest/spec/matrix_spec.rb)  
 >> [prime_factors](MiniTest/spec/prime_factors_spec.rb)  
 >> [rna_transcription](MiniTest/spec/rna_transcription_spec.rb)  
->> [sum_of_multiples](MiniTest/spec/sum_of_multiples_spec.rb)
-
+>> [sum_of_multiples](MiniTest/spec/sum_of_multiples_spec.rb)  
 > [test](MiniTest/test)
 >> [gigasecond](MiniTest/test/gigasecond/gigasecond_test.rb)  
 >> [hamming](MiniTest/test/hamming/hamming_test.rb)  
