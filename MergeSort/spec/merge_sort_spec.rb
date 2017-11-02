@@ -21,5 +21,17 @@ RSpec.describe '../lib/merge_sort.rb' do
     it 'should returns sorted empty array' do
       expect([].merge_sort).to match([])
     end
+
+    it 'should returns sorted array with one int element' do
+      expect([1].merge_sort).to match_array([1])
+    end
+
+    it 'should returns sorted array with one float element' do
+      expect([1.0001].merge_sort).to match_array([1.0001])
+    end
+
+    it 'should returns sorted array with one string element' do
+      expect(['tomek'].merge_sort).to match_array(['tomek'])
+    end
   end
 end
