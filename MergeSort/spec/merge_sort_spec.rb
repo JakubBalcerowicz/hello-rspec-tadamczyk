@@ -33,5 +33,17 @@ RSpec.describe '../lib/merge_sort.rb' do
     it 'should returns sorted array with one string element' do
       expect(['tomek'].merge_sort).to match_array(['tomek'])
     end
+
+    it 'should returns sorted int array' do
+      expect([1321, 1, 23, 422].merge_sort).to match_array([1, 23, 422, 1321])
+    end
+
+    it 'should returns sorted negative int array' do
+      expect([-2, -500, -1, -3].merge_sort).to match_array([-500, -3, -2, -1])
+    end
+
+    it 'should returns correctly sorted int array' do
+      expect([133, 1, 0, -5].merge_sort).to match_array([-5, 0, 1, 133])
+    end
   end
 end
