@@ -17,5 +17,9 @@ RSpec.describe '../lib/merge_sort.rb' do
     it 'should returns correct string array' do
       expect(%w[tomek adam czyk].merge_sort).to be_a_kind_of Array
     end
+
+    it 'should returns sorted empty array' do
+      expect([].merge_sort).to match([])
+    end
   end
 end
