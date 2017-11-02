@@ -15,5 +15,12 @@ RSpec.describe '../lib/merge.rb' do
       final = [0, 0.5, 1, 1.1, 1.12]
       expect(merge(left, right)).to match_array(final)
     end
+
+    it 'should returns correctly merged string array' do
+      left = %w[adam tomek]
+      right = %w[czyk Tomasz Adam]
+      final = %w[Adam Tomasz adam czyk tomek]
+      expect(merge(left, right)).to match_array(final)
+    end
   end
 end
