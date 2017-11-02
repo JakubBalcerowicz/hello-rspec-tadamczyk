@@ -91,5 +91,15 @@ RSpec.describe '../lib/merge_sort.rb' do
       after_sort = ['9', '15.34', 'Tomek', 'adam']
       expect(before_sort.merge_sort).to match_array(after_sort)
     end
+
+    it 'should returns the littlest element in sorted int array' do
+      array = [-1, -12, 2, 5].merge_sort
+      expect(array[0]).to eq (-12)
+    end
+
+    it 'should returns the biggest element in sorted int array' do
+      array = [-1, -12, 2, 5].merge_sort
+      expect(array[-1]).to eq (5)
+    end
   end
 end
