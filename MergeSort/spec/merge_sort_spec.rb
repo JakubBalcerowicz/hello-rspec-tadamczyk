@@ -49,5 +49,21 @@ RSpec.describe '../lib/merge_sort.rb' do
     it 'should returns sorted int array with duplicate elements' do
       expect([0, 2, 1, 2, 1, 1].merge_sort).to match_array([0, 1, 1, 1, 2, 2])
     end
+
+    it 'should returns sorted float array' do
+      expect([1.001, 1.002, 1.1, 1].merge_sort).to match_array([1, 1.001, 1.002, 1.1])
+    end
+
+    it 'should returns sorted negative float array' do
+      expect([-1.001, -1.002, -1.1, -1].merge_sort).to match_array([-1.1, -1.002, -1.001, -1])
+    end
+
+    it 'should returns correctly sorted float array' do
+      expect([133, 1.531, 0.233, -5.032].merge_sort).to match_array([-5.032, 0.233, 1.531, 133])
+    end
+
+    it 'should returns sorted float array with duplicate elements' do
+      expect([1.1, 1.1, 1, 1.001, 1, 1.002].merge_sort).to match_array([1, 1, 1.001, 1.002, 1.1, 1.1])
+    end
   end
 end
