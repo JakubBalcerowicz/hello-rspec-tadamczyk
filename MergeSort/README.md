@@ -20,7 +20,8 @@ Struktura katalogu:
 >> [merge_sort](lib/merge_sort.rb)
 
 > [spec](spec)
->> [main_merge_sort_spec](spec/main_merge_sort_spec.rb)  
+>> [merge_spec](spec/merge_spec.rb)  
+>> [merge_sort_spec](spec/merge_sort_spec.rb)  
 >> [int_array_merge_sort_spec](spec/int_array_merge_sort_spec.rb)  
 >> [float_array_merge_sort_spec](spec/float_array_merge_sort_spec.rb)  
 >> [string_array_merge_sort_spec](spec/string_array_merge_sort_spec.rb)
