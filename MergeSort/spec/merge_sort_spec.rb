@@ -101,5 +101,15 @@ RSpec.describe '../lib/merge_sort.rb' do
       array = [-1, -12, 2, 5].merge_sort
       expect(array[-1]).to eq (5)
     end
+
+    it 'should returns the littlest element in sorted float array' do
+      array = [-1.002, -1.01, 5.2321, 5.232].merge_sort
+      expect(array[0]).to eq (-1.01)
+    end
+
+    it 'should returns the biggest element in sorted float array' do
+      array = [-1.002, -1.01, 5.2321, 5.232].merge_sort
+      expect(array[-1]).to eq (5.2321)
+    end
   end
 end
