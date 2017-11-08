@@ -1,8 +1,8 @@
 # Laboratorium z Testowania aplikacji Ruby
 
-https://travis-ci.org/my-rspec/hello-rspec-tadamczyk.svg?branch=master
-
-Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
+| Wykład i laboratorium | Konto studenta | Travis CI Status |
+:--:|:--:|:--:
+| [dr Włodzimierz Bzyl](https://github.com/egzamin/tar) | [Tomasz Adamczyk](https://github.com/tadamczyk) | [![Build Status](https://travis-ci.org/my-rspec/hello-rspec-tadamczyk.svg?branch=master)](https://travis-ci.org/my-rspec/hello-rspec-tadamczyk) |
 
 ********************************
 
