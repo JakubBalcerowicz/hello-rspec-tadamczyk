@@ -1,8 +1,8 @@
 # Laboratorium z Testowania aplikacji Ruby
 
-| Wykład i laboratorium | Konto studenta | Last Commit | Travis CI Status |
+| Wykład i laboratorium | Konto studenta | Repo Size | Travis CI Status |
 :--:|:--:|:--:|:--:
-| [dr Włodzimierz Bzyl](https://github.com/egzamin/tar) | [Tomasz Adamczyk](https://github.com/tadamczyk) | [![GitHub last commit (master)](https://img.shields.io/github/last-commit/google/skia/infra/config.svg?style=flat-square)](https://github.com/my-rspec/hello-rspec-tadamczyk) | [![Build Status](https://travis-ci.org/my-rspec/hello-rspec-tadamczyk.svg?branch=master)](https://travis-ci.org/my-rspec/hello-rspec-tadamczyk) |
+| [dr Włodzimierz Bzyl](https://github.com/egzamin/tar) | [Tomasz Adamczyk](https://github.com/tadamczyk) | [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)](https://github.com/my-rspec/hello-rspec-tadamczyk) | [![Build Status](https://travis-ci.org/my-rspec/hello-rspec-tadamczyk.svg?branch=master)](https://travis-ci.org/my-rspec/hello-rspec-tadamczyk) |
 
 ********************************
 
