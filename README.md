@@ -1,5 +1,7 @@
 # Laboratorium z Testowania aplikacji Ruby
 
+https://travis-ci.org/my-rspec/hello-rspec-tadamczyk.svg?branch=master
+
 Wykład i laboratorium: [dr Włodzimierz Bzyl](https://github.com/egzamin/tar)
 
 ********************************
