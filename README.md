@@ -7,9 +7,7 @@
 ********************************
 
 [MergeSort](MergeSort) - implementacja sortowania przez scalanie stanowiąca projekt na zaliczenie. Po więcej informacji [_kliknij tutaj_](MergeSort/README.md):
-> [README](MergeSort/README.md)  
-> [Gemfile](MergeSort/Gemfile)  
-> [Gemfile.lock](MergeSort/Gemfile.lock)
+> [README](MergeSort/README.md)
 
 > [lib](MergeSort/lib)
 >> [merge](MergeSort/lib/merge.rb)  
@@ -25,8 +23,6 @@
 ********************************
 
 [CodeQuizzes](CodeQuizzes) - link do strony [_kliknij tutaj_](http://www.codequizzes.com) oraz do odpowiednich zadań [_kliknij tutaj_](http://www.codequizzes.com/ruby/test-driven-development/strings-integers-tdd) i [_kliknij tutaj_](http://www.codequizzes.com/ruby/test-driven-development/rspec-arrays-expectations):
-> [Gemfile](CodeQuizzes/Gemfile)  
-> [Gemfile.lock](CodeQuizzes/Gemfile.lock)
 
 > [lib](CodeQuizzes/lib)
 >> [quiz1_1](CodeQuizzes/lib/quiz1_1.rb)  
@@ -67,8 +63,6 @@
 ********************************
 
 [MiniTest](MiniTest) - link do strony [_kliknij tutaj_](http://exercism.io/) oraz do odpowiednich zadań [_kliknij tutaj_](http://exercism.io/languages/ruby/exercises):
-> [Gemfile](MiniTest/Gemfile)  
-> [Gemfile.lock](MiniTest/Gemfile.lock)
 
 > [lib](MiniTest/lib)
 >> [gigasecond](MiniTest/lib/gigasecond.rb)  
