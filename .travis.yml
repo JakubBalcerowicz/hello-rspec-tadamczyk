@@ -3,6 +3,6 @@ rvm:
   - 2.4.2
 script:
   - bundle install
-  - bundle exec rspec CodeQuizzes
-  - bundle exec rspec MiniTest
-  - bundle exec rspec MergeSort
+  - bundle exec rspec CodeQuizzes -fd
+  - bundle exec rspec MiniTest -fd
+  - bundle exec rspec MergeSort -fd
